@@ -1,0 +1,6 @@
+main: org.carlgo11.main.Main
+name: Whitelist
+version: 0.7
+commands:
+  Wh:
+  Update:
