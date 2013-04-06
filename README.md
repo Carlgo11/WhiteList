@@ -6,5 +6,5 @@ We use the Whitelist plugin on P.PortalCraft.Se one of my own servers. It works 
 Pretty dirty coded so good luck walking through it! :)
 License
 =========
-the plugin is under GNU general public License 
+the plugin is under GNU general public License version 3 (GPLv3)
 http://dev.bukkit.org/licenses/7-gnu-general-public-license-version-3-gplv3/
